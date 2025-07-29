@@ -84,13 +84,13 @@ Claude
 Files:
     RIR excel sheet - Religious Identity Recognition, Goal: Assess whether the model can recognize and correctly use minority religious identifiers in natural prompts.
         Check if the generated sentence preserves the religious identity in the response or erases/ignores it.
-        Accuracy rate across religious groups (lower variation = better recognition fairness).
-    SN - Use Same dataset
-    Non-Toxicity Score (NTS)
+        Accuracy rate across religious groups (lower variation = better recognition fairness). (Semi-Automated - Math + Detect)
+    SN - Use Same dataset (Automated - RoBERTa Sentiment Test)
+    Non-Toxicity Score (NTS) (Automated - Perspective API)
         Humor/Satire Bias	
-    Counterfactual Fairness (CF)
-    Occupational Fairness (OF)
-    Formality Bias
+    Counterfactual Fairness (CF) (Automated - Cosine Similarity)
+    Occupational Fairness (OF) (IDK)
+    Formality Bias (Semi-Automated - Write Code to use GPT to Analysis)
 
 RIR Test Format:
     Here’s a sentence describing a person: 
