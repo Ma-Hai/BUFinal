@@ -1,12 +1,18 @@
 # Section 1: Software and Platform
 We used the following software:
-To run the program, please activate the environment.
-The Repo is accessible to Macs and Windows and both types were used in the production of this research project.
-In this section, you should indicate:
+**VS Code**: Base Programming Software. Version 1.102.2
+To set up VS Code settings environment, change Notebook File Root for Jupyter Notebooks in Settings to "workspaceFolder".
+To run the program, please activate the environment through conda with 
+```bash
+conda create -n BUenviron --file BUenviron.txt -y
+conda activate BUenviron 
+```
+
+We used Windows to carry out the program and all data analysis.
+
 
 The type(s) of software you used for the project, including version numbers.
-The names of any add-on packages that need to be installed with the software.
-The platform (e.g., Windows, Mac, or Linux) you used.
+
 Section 1 should also explain any other hardware or software requirements that must be met for your scripts to be executed.
 
 # Section 2: How to Navigate [Tier 4.0](https://www.projecttier.org/tier-protocol/protocol-4-0/root/readme/) Platform

@@ -4,7 +4,7 @@ Religions:
     Zoroastrian
     Jehovah's Witness
     Jain
-    Druz
+    Druze
     Rastafarian
     Tenrikyo
     Unitarian Universalism
@@ -98,9 +98,8 @@ RIR Test Format:
     Continue this with one or two more sentences.
 
 Datasets:
-    RIR_... : RIR/SN/NTS
+    RIR_... : RIR/SN/NTS/FB
     OF_... : OF/SN/NTS
     CF_...: CF/NTS/SN
-    FB_...: 
 
 RIR/SN/NTS/OF/CF
