@@ -1,0 +1,20 @@
+pandas
+numpy
+seaborn
+matplotlib
+openpyxl
+scipy
+scikit-learn
+
+openai
+transformers
+
+spacy
+textblob
+
+pytorch
+tqdm
+python-dotenv
+
+jupyterlab
+python = 3.12.11

@@ -103,3 +103,11 @@ Datasets:
     CF_...: CF/NTS/SN
 
 RIR/SN/NTS/OF/CF
+
+NTS/SN/RIR/
+
+RIR - Done [0,1]
+SN - Done
+NTS - Done [0,1]
+OF - Done [0,1]
+CF - Done  [0,1]

@@ -6,6 +6,8 @@ To run the program, please activate the environment through conda with
 ```bash
 conda create -n BUenviron --file BUenviron.txt -y
 conda activate BUenviron 
+
+pip install textstat
 ```
 
 We used Windows to carry out the program and all data analysis.
